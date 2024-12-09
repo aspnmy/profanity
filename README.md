@@ -1,3 +1,6 @@
+# 修复私锁被爆破漏洞
+Fix profanity seed create bug, ref: https://medium.com/amber-group/exploiting-the-profanity-flaw-e986576de7ab
+
 # profanity
 This project was abandoned by me a couple of years ago. Fundamental security issues in the generation of private keys have been brought to my attention. See: https://github.com/johguse/profanity/issues/61
 
